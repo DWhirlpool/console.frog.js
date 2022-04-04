@@ -1,0 +1,25 @@
+{
+  "name": "@dwhirlpool/consoledotfrog",
+  "version": "1.5.0",
+  "description": "Logs A Frog",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.frog(\"hello world\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWhirlpool/console.frog.js.git"
+  },
+  "keywords": [
+    "frog"
+  ],
+  "author": "dwhirlpool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DWhirlpool/console.frog.js/issues"
+  },
+  "homepage": "https://github.com/DWhirlpool/console.frog.js#readme",
+  "dependencies": {
+    "console.frog": "^1.5.0"
+  }
+}
