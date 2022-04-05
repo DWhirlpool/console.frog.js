@@ -4,7 +4,7 @@
 [![npm version](https://badge.fury.io/js/@dwhirlpool%2Fconsoledotfrog.svg)](https://badge.fury.io/js/@dwhirlpool%2Fconsoledotfrog)
 ## Instalation
 ```
-$npm i @dwhirlpool/consoledotfrog
+$npm i @dwhirlpool/consoledotfrog@1.5.0
 ```
 ## General Info
 console.frog.js logs a frog
