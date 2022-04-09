@@ -6,6 +6,9 @@
 </a>
 ![npms.io (final)](https://img.shields.io/npms-io/final-score/@dwhirlpool/consoledotfrog)
 ![Snyk Vulnerabilities for npm package](https://img.shields.io/snyk/vulnerabilities/npm/@dwhirlpool/consoledotfrog)
+[![Rate this package](https://badges.openbase.com/js/rating/@dwhirlpool/consoledotfrog.svg?style=openbase&token=1HIildyyINEktemxbOj7+6gsvVWFhZmxn0h2v0Prd6o=)](https://openbase.com/js/@dwhirlpool/consoledotfrog?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
+[![Featured on Openbase](https://badges.openbase.com/js/featured/@dwhirlpool/consoledotfrog.svg?style=openbase&token=1HIildyyINEktemxbOj7+6gsvVWFhZmxn0h2v0Prd6o=)](https://openbase.com/js/@dwhirlpool/consoledotfrog?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
+[![Verified on Openbase](https://badges.openbase.com/js/verified/@dwhirlpool/consoledotfrog.svg?style=openbase&token=1HIildyyINEktemxbOj7+6gsvVWFhZmxn0h2v0Prd6o=)](https://openbase.com/js/@dwhirlpool/consoledotfrog?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 ## Installation
 ```
 $npm i @dwhirlpool/consoledotfrog@1.5.0
