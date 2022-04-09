@@ -10,8 +10,17 @@
 [![Featured on Openbase](https://badges.openbase.com/js/featured/@dwhirlpool/consoledotfrog.svg?style=openbase&token=1HIildyyINEktemxbOj7+6gsvVWFhZmxn0h2v0Prd6o=)](https://openbase.com/js/@dwhirlpool/consoledotfrog?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 [![Verified on Openbase](https://badges.openbase.com/js/verified/@dwhirlpool/consoledotfrog.svg?style=openbase&token=1HIildyyINEktemxbOj7+6gsvVWFhZmxn0h2v0Prd6o=)](https://openbase.com/js/@dwhirlpool/consoledotfrog?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 ## Installation
+### npm
 ```
 $npm i @dwhirlpool/consoledotfrog@1.5.0
+```
+### yarn
+```
+$yarn add @dwhirlpool/consoledotfrog
+```
+### pnpm
+```
+$pnpm i @dwhirlpool/consoledotfrog
 ```
 ## General Info
 console.frog.js logs a frog
@@ -27,4 +36,9 @@ Output:
  ,-.\-.__,\\_
  \(`--'    `\
 ```
+## CDNs
+##### [unpkg](https://unpkg.com/@dwhirlpool/consoledotfrog@1.6.0/)
+##### [jsDelivr](https://cdn.jsdelivr.net/npm/@dwhirlpool/consoledotfrog@1.6.0/)
+##### [bundle.run](https://bundle.run/@dwhirlpool/consoledotfrog@1.6.0)
+
 Enjoying @dwhirlpool/consoledotfrog? [Please rate it on Openbase](https://openbase.com/js/@dwhirlpool/consoledotfrog#rate)
