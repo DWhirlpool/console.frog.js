@@ -27,3 +27,4 @@ Output:
  ,-.\-.__,\\_
  \(`--'    `\
 ```
+Enjoying @dwhirlpool/consoledotfrog? [Please rate it on Openbase](https://openbase.com/js/@dwhirlpool/consoledotfrog#rate)
